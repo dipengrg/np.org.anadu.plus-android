@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "np.org.anadu.samaj"
+        applicationId = "np.org.anadu.plus"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

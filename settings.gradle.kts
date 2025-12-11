@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AnaduSamajApp"
+rootProject.name = "AnaduPlus"
 include(":app")

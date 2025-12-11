@@ -1,4 +1,4 @@
-package np.org.anadu.samaj.ui.auth
+package np.org.anadu.plus.ui.auth
 
 import androidx.compose.foundation.shape.GenericShape
 

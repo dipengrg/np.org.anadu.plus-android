@@ -1,4 +1,4 @@
-package np.org.anadu.samaj.ui.auth.viewmodel
+package np.org.anadu.plus.ui.auth.viewmodel
 
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
@@ -9,9 +9,9 @@ import io.ktor.client.request.setBody
 import io.ktor.http.ContentType
 import io.ktor.http.contentType
 import kotlinx.coroutines.launch
-import np.org.anadu.samaj.network.KtorClient
-import np.org.anadu.samaj.network.models.AuthRequest
-import np.org.anadu.samaj.network.models.AuthResponse
+import np.org.anadu.plus.network.KtorClient
+import np.org.anadu.plus.network.models.AuthRequest
+import np.org.anadu.plus.network.models.AuthResponse
 
 class PhoneVerificationViewModel : ViewModel() {
     var phone = mutableStateOf("")

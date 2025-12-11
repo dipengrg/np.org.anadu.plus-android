@@ -1,4 +1,4 @@
-package np.org.anadu.samaj.ui.theme
+package np.org.anadu.plus.ui.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.lightColorScheme

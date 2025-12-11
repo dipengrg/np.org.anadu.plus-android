@@ -1,4 +1,4 @@
-package np.org.anadu.samaj.ui.auth.components
+package np.org.anadu.plus.ui.auth.components
 
 import android.content.Intent
 import androidx.compose.foundation.clickable

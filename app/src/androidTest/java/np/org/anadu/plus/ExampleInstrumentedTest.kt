@@ -1,4 +1,4 @@
-package np.org.anadu.samaj
+package np.org.anadu.plus
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("np.org.anadu.samaj", appContext.packageName)
+        assertEquals("np.org.anadu.plus", appContext.packageName)
     }
 }

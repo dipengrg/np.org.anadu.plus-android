@@ -1,4 +1,4 @@
-package np.org.anadu.samaj.ui.common
+package np.org.anadu.plus.ui.common
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -9,7 +9,6 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.airbnb.lottie.compose.LottieAnimation
 import com.airbnb.lottie.compose.LottieCompositionSpec
@@ -25,7 +24,7 @@ fun LoadingScreen() {
         contentAlignment = Alignment.Center
     ) {
         val composition by rememberLottieComposition(
-            LottieCompositionSpec.RawRes(np.org.anadu.samaj.R.raw.loading)
+            LottieCompositionSpec.RawRes(np.org.anadu.plus.R.raw.loading)
         )
 
         LottieAnimation(

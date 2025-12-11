@@ -1,4 +1,4 @@
-package np.org.anadu.samaj
+package np.org.anadu.plus
 
 import org.junit.Test
 

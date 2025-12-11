@@ -1,4 +1,4 @@
-package np.org.anadu.samaj.network.models
+package np.org.anadu.plus.network.models
 
 import kotlinx.serialization.Serializable
 

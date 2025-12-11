@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "np.org.anadu.samaj"
+    namespace = "np.org.anadu.plus"
     compileSdk {
         version = release(36)
     }

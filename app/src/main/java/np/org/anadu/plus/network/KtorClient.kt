@@ -1,4 +1,4 @@
-package np.org.anadu.samaj.network
+package np.org.anadu.plus.network
 
 import io.ktor.client.*
 import io.ktor.client.engine.cio.*

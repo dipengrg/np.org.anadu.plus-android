@@ -1,4 +1,4 @@
-package np.org.anadu.samaj.ui.auth
+package np.org.anadu.plus.ui.auth
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -18,7 +18,6 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Done
 import androidx.compose.material.icons.filled.Phone
 import androidx.compose.material3.Button
-import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
@@ -34,9 +33,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import np.org.anadu.samaj.R
-import np.org.anadu.samaj.ui.auth.components.SupportText
-import np.org.anadu.samaj.ui.auth.viewmodel.PhoneVerificationViewModel
+import np.org.anadu.plus.R
+import np.org.anadu.plus.ui.auth.components.SupportText
+import np.org.anadu.plus.ui.auth.viewmodel.PhoneVerificationViewModel
 
 @Preview
 @Composable

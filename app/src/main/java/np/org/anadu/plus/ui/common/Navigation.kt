@@ -1,10 +1,10 @@
-package np.org.anadu.samaj.ui.common
+package np.org.anadu.plus.ui.common
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import np.org.anadu.samaj.ui.auth.PhoneVerificationScreen
+import np.org.anadu.plus.ui.auth.PhoneVerificationScreen
 
 @Composable
 fun Route(navController: NavHostController) {
